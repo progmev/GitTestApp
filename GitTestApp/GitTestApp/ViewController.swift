@@ -8,12 +8,12 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Я второй но не последний!!!")
+        print("Бдин я последний")
+        
+        
     }
-
-
 }
 
