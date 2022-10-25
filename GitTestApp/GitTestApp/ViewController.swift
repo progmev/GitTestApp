@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         print("Бдин я последний")
         
         print("Bug fixing")
+        // это то что я хочу Stash
+        // ошибка
+        print("Новая таска готова")
     }
 }
 
