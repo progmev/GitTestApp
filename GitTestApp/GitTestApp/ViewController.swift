@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Я второй но не последний!!!")
         print("Что то еще от второго!!!")
-        
+        print("Я был самый быстрый")
     }
 
 
